@@ -1,15 +1,7 @@
 # Git Course
-la
-la
-la
-la
-la
 
-Apenas aqui que e legal
 
-alteandoooo
+Este e um repositorio de teste para ensinar com Git funciona.
 
 
 
-
-akterando de novo
