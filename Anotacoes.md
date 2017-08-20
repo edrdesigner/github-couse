@@ -3,7 +3,7 @@ Command
 -- create a branch
 git checkout -b nameBranch
 
--- list branchs
+-- list branches
 git branch
 
 -- delete 
