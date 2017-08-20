@@ -27,6 +27,8 @@ Lost chronological order
 
 # Git Tags
 git tag -a 1.0.0 -m "Readme finished"
+Send to remote
+git push origin master --tags
 
 
 # Git Basics - Git Aliases
