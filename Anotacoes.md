@@ -25,6 +25,9 @@ Cons
 Lost chronological order
 
 
+# Git Tags
+git tag -a 1.0.0 -m "Readme finished"
+
 
 # Git Basics - Git Aliases
 
