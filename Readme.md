@@ -8,5 +8,3 @@ Muito Bom estou aprendendo bastante.
 
 
 Agora alterei mais um pouco.
-
-Foobar fiz
